@@ -7,3 +7,5 @@ transformers
 openai
 python-dateutil
 sentencepiece
+reportlab
+
