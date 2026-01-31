@@ -114,4 +114,5 @@ $env:OPENAI_API_KEY="your_api_key_here"
 
 ## 👨‍💻 Author
 **Your Name**  
-Final Year B.E. Computer Science Project  
+SOUNDHARYA D 
+
