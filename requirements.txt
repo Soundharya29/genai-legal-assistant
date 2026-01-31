@@ -1,0 +1,9 @@
+streamlit
+pdfplumber
+python-docx
+spacy
+sentence-transformers
+transformers
+openai
+python-dateutil
+sentencepiece
