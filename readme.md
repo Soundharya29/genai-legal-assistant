@@ -104,15 +104,18 @@ $env:OPENAI_API_KEY="your_api_key_here"
 
 ## 🎥 Demo Video
 📺 (Add your YouTube / Google Drive link here)
+https://drive.google.com/file/d/1ToYVUICIessAtj9H2m6F5YjN4wm4ghm6/view?usp=sharing
 
 ---
 
 ## 🌍 Live Application
 🔗 (Add your Streamlit Cloud URL here)
+https://share.streamlit.io/user/soundharya29
 
 ---
 
 ## 👨‍💻 Author
 **Your Name**  
 SOUNDHARYA D 
+
 
